@@ -29,3 +29,18 @@ Sample CSV data is available in data/sales_january.csv.
 
 ## Disclaimer
 This project uses sample sales data for demonstration purposes.
+
+## Sample Results
+
+| Metric | Result |
+|---|---:|
+| Total Orders | 10 |
+| Unique Products | 4 |
+| Units Sold | 24 |
+| Total Sales | 805.50 |
+
+## Excel Workbook Sheets
+
+- **Overview:** Key sales metrics
+- **Sales Details:** Individual order records
+- **Product Summary:** Units sold and revenue by product
