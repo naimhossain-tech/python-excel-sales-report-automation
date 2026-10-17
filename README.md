@@ -44,6 +44,7 @@ This project uses sample sales data for demonstration purposes.
 - **Overview:** Key sales metrics
 - **Sales Details:** Individual order records
 - **Product Summary:** Units sold and revenue by product
+
 -## Download Sample Excel Report
 
 Download and explore the generated Excel sales report:
